@@ -9,12 +9,41 @@
 
 ---
 [![Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Template Version](http://img.shields.io/badge/Template%20%Version-v1.0-brightgreen.svg)
+![Template Version](http://img.shields.io/badge/Template%20Version-v1.0-brightgreen.svg)
 
 
 **Important:** Made with [FullPage.js](https://github.com/alvarotrigo/fullPage.js)
 
-- Preview: [Demo online]()
+- Preview: [Demo online](https://zhenglinlei.github.io/nike-web-template/)
 - Data Source: [Nike](https://nike.com) | [StockX](https://stockx.com) 
 - [Folder with images](./source)
 
+
+
+## Javascript fullscreen deploy
+
+```Javascript
+
+    // CALL
+     var myFullpage = new fullpage('#fullpage', {
+        navigation: true,
+        navigationPosition: 'right',
+        showActiveTooltip: true,
+        slidesNavigation: true,
+        slidesNavPosition: 'bottom',
+        loopBottom: true,
+        loopTop: true,
+        controlArrows: true,
+     });
+     
+     
+
+```
+
+
+
+### Love this repo? Give us a star ⭐
+
+<a href="./">
+  <img src="https://img.shields.io/badge/UI%20Template-Rate-blue">
+</a>
